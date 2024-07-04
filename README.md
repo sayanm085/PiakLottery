@@ -1,1 +1,1 @@
-# PiakLottery
+# tailwindcss-rs-web-page
